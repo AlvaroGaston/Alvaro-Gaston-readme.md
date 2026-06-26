@@ -1,0 +1,23 @@
+Ejemplos de los cuellos de botella en el desarrollo de software (Frederick Brooks):
+
+Frederick Brooks, en su libro "El Mítico Hombre-Mes", explicó que hay problemas inherentes al software que no podemos eliminar, solo gestionar. Son las "dificultades esenciales". Aquí van ejemplos prácticos de cada una:
+
+1.  **Complejidad (Complexity)**
+    El software es increíblemente complejo, mucho más que cualquier otra creación humana. Un programa no es una secuencia lineal, sino una red de estados lógicos.
+    - **Ejemplo:** Un sistema de e-commerce. No es solo un carrito de compras. Debe manejar impuestos diferentes por provincia, descuentos que se aplican sobre otros descuentos, stock en tiempo real, múltiples medios de pago, y permisos de usuario. Es imposible que una sola persona tenga todo el sistema en su cabeza. Por eso, cuando se arregla un bug en los impuestos, es común que se rompa algo en los descuentos (el famoso "efecto dominó").
+
+2.  **Conformidad (Conformity)**
+    El software no vive en una burbuja. Debe "conformarse" y adaptarse a sistemas viejos, a procesos humanos o a hardware que no podemos cambiar.
+    - **Ejemplo:** Un equipo crea una app bancaria súper moderna, pero el banco les obliga a conectarse a su sistema central (mainframe) de los años 80. La app nueva, rápida y bonita, se ve forzada a volverse lenta y torpe para poder hablar con esa reliquia tecnológica que nadie se atreve a apagar. El software nuevo se "conforma" al viejo.
+
+3.  **Cambiabilidad (Changeability)**
+    A diferencia de un edificio, la gente percibe el software como algo infinitamente "moldeable". Siempre hay presión para cambiarlo, incluso después de terminado.
+    - **Ejemplo:** Se está desarrollando una app de delivery. El requisito inicial es "solo pago con tarjeta". Toda la arquitectura se diseña para eso. Un mes antes del lanzamiento, marketing decide que "ahora también hay que aceptar efectivo, Mercado Pago y criptomonedas". Como el software es "fácil de cambiar", el equipo empieza a meter parches y el diseño original, que era limpio y elegante, se degrada.
+
+4.  **Invisibilidad (Invisibility)**
+    El software es abstracto, invisible. No se puede dibujar un plano exacto como en la arquitectura.
+    - **Ejemplo:** Un desarrollador intenta explicarle a su jefe (que no es técnico) por qué refactorizar un módulo llevará un mes entero. El jefe no puede "ver" el acoplamiento, la deuda técnica o la complejidad ciclomática. Para él, si la pantalla se ve igual, no se hizo nada. Esta invisibilidad hace muy difícil comunicar el esfuerzo real y el progreso del trabajo.
+
+5.  **Sobrecarga de Comunicación (La Ley de Brooks)**
+    Este es el problema central que da nombre al libro. Brooks afirma que **"agregar más gente a un proyecto de software retrasado, lo retrasa aún más"**.
+    - **Ejemplo:** Un proyecto con 3 programadores va con un mes de retraso. El gerente, desesperado, contrata a 5 programadores nuevos. En lugar de acelerar, el proyecto se hunde. Los 3 programadores originales tienen que dejar de programar para enseñarles a los 5 nuevos. La comunicación se vuelve un caos, con más reuniones y malentendidos. El proyecto, que iba a tardar un mes más, ahora tardará tres.

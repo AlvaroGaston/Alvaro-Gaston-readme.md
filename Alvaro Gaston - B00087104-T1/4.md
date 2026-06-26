@@ -1,0 +1,20 @@
+El factor humano es, sin duda, la mayor fuente de complejidad en el desarrollo de software, a veces incluso más que los propios desafíos técnicos. Al final del día, el software es hecho por personas, para personas, y eso lo complica todo.
+
+A continuación, detallo las principales complejidades que agrega el factor humano:
+
+1.  **La ambigüedad de la comunicación:** Las personas hablamos con ambigüedades, pero el código necesita instrucciones exactas. El proceso de traducir lo que un cliente "cree que quiere" a lo que "realmente necesita" y luego a código funcional es el origen de la mayoría de los problemas. Es el clásico "teléfono descompuesto" entre el área de negocio y el equipo técnico.
+
+2.  **Somos pésimos estimando:** Los humanos, y en especial los desarrolladores, tendemos a ser demasiado optimistas. Estimar cuánto tiempo llevará una tarea creativa y compleja como programar es casi un arte arcano. La presión, el no conocer bien el problema y el optimismo natural hacen que los cronogramas casi nunca se cumplan.
+
+3.  **Las dinámicas del equipo:** El software se hace en equipo, y eso trae consigo todos los problemas de las relaciones humanas: choques de ego, conflictos, estilos de trabajo diferentes y la necesidad de crear un ambiente de "seguridad psicológica", donde la gente no tenga miedo de decir "no sé" o "me equivoqué".
+
+4.  **El conocimiento se va con las personas (el "Factor Autobús"):** Muchas veces, el conocimiento crítico de un sistema vive solo en la cabeza de una o dos personas. Si esa persona se va (o, en el peor caso, la atropella un autobús), el proyecto queda en una situación crítica. Documentar y compartir el conocimiento es un desafío de disciplina humana, no de herramientas.
+
+5.  **El cansancio y los errores:** Somos humanos, nos cansamos, nos distraemos y cometemos errores. Un simple bug puede ser producto de una noche de mal sueño. La programación exige una carga cognitiva altísima, y mantener ese nivel de concentración durante 8 horas es simplemente imposible.
+
+6.  **La resistencia al cambio:** A las personas no nos gusta cambiar. Esto aplica tanto a los desarrolladores que se niegan a adoptar una nueva tecnología, como a los usuarios finales que no quieren dejar de usar su viejo sistema por el nuevo que les construimos. La gestión del cambio es clave para que un proyecto de software no fracase después de entregado.
+
+7.  **Los usuarios son impredecibles:** Por más que diseñemos y probemos un sistema, los usuarios siempre encontrarán una forma creativa de romperlo o de usarlo de una manera que jamás imaginamos. Es una ley universal del software.
+
+En resumen:
+En definitiva, gran parte de las metodologías ágiles como Scrum o Kanban no existen para resolver problemas de código, sino para gestionar esta complejidad humana. Las reuniones diarias, los ciclos cortos y las retrospectivas son mecanismos diseñados para mejorar la comunicación, alinear expectativas y adaptarnos a la naturaleza cambiante y falible de las personas que construyen y usan el software.

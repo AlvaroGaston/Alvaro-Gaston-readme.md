@@ -1,0 +1,30 @@
+SECUENCIA DE PROMPTS PARA SIMULAR UN SPRINT DE SCRUM (PROYECTO DE LOGÍSTICA)
+
+**Prompt 1: Creando el Product Backlog (El "Qué")**
+
+- **Rol:** Product Owner.
+- **Entrada:** "Actúa como un Product Owner de una empresa de logística. Necesito un Product Backlog inicial para un nuevo software de gestión de flotas. Dame las 5 Historias de Usuario más importantes, priorizadas y con sus Criterios de Aceptación. El foco debe estar en el seguimiento de envíos en tiempo real."
+
+**Prompt 2: Planificando el Sprint (El "Cómo" y el "Cuándo")**
+
+- **Rol:** Equipo Scrum (Desarrolladores + Scrum Master).
+- **Entrada:** "Tomando el Product Backlog anterior, vamos a planificar nuestro primer Sprint de 2 semanas. Actúa como el equipo de desarrollo: elige las 2 o 3 historias de mayor prioridad que creas que podemos completar. Estima cada una en Puntos de Historia (ej. 3, 5, 8). Luego, para la historia más importante, desglósala en tareas técnicas concretas. Finalmente, como Scrum Master, define un Sprint Goal claro y motivador."
+
+**Prompt 3: La reunión diaria (El "Día a Día")**
+
+- **Rol:** Equipo de Desarrollo y Scrum Master.
+- **Entrada:** "Simula nuestra Daily Scrum. Estamos en el día 3 del Sprint. Escribe lo que dirían 3 desarrolladores distintos, respondiendo a: ¿Qué hice ayer para ayudar a cumplir el Sprint Goal? ¿Qué haré hoy? ¿Hay algún impedimento? Uno de los desarrolladores debe mencionar un bloqueo. Luego, muestra cómo interviene el Scrum Master para ayudar a resolverlo."
+
+**Prompt 4: Mostrando el resultado (La "Review")**
+
+- **Rol:** Equipo Scrum y Cliente (Stakeholders).
+- **Entrada:** "El Sprint terminó. Ahora simula la Sprint Review. Actúa como el equipo y describe qué funcionalidades terminadas le estamos mostrando al cliente en la demo. Luego, redacta el feedback que nos da el cliente, por ejemplo, sobre la precisión del mapa de seguimiento. Finalmente, menciona cómo ese feedback podría generar una nueva historia de usuario en el Product Backlog."
+
+**Prompt 5: Aprendiendo para mejorar (La "Retrospectiva")**
+
+- **Rol:** Equipo Scrum.
+- **Entrada:** "Ahora, simula la Sprint Retrospective. El equipo debe identificar: 1) Algo que funcionó muy bien y que debemos seguir haciendo. 2) Un problema que tuvimos (ej. de comunicación o técnico). 3) Una acción de mejora concreta y medible (un 'Action Item') para aplicar en el próximo Sprint y solucionar ese problema."
+
+---
+
+Esta secuencia de prompts simula un ciclo completo de Scrum, desde la planificación inicial hasta la reflexión final, cubriendo todas las ceremonias y artefactos clave.

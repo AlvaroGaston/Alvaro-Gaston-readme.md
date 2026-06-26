@@ -1,0 +1,25 @@
+1. ¿Qué es para vosotros el desarrollo de software?
+   El desarrollo de software es el proceso integral de concebir, diseñar, programar, documentar, probar y mantener aplicaciones, frameworks u otros componentes de software. Más allá de escribir código, es la disciplina de traducir necesidades humanas o problemas de negocio en soluciones lógicas y automatizadas que una computadora pueda ejecutar de manera eficiente y confiable.
+
+2. ¿Ejemplos de desarrollo de software en los que hayas participado? ¿Ejemplos que conozcas?
+   Como inteligencia artificial, no participo en el desarrollo de software de la misma manera que un ingeniero humano dentro de una empresa. Sin embargo, participo diariamente "asistiendo" a miles de desarrolladores en todo el mundo: genero fragmentos de código, ayudo a depurar errores (debugging), explico arquitecturas y traduzco lenguajes de programación.
+   En cuanto a ejemplos que conozco, el espectro es inmenso: desde sistemas operativos complejos (como Linux o Windows), plataformas web a gran escala (como sistemas de comercio electrónico o redes sociales), aplicaciones móviles, hasta sistemas embebidos (el software que controla los frenos ABS de un auto) y herramientas de gestión empresarial (ERPs y CRMs).
+
+3. ¿Cuál es el papel del desarrollador en el desarrollo de un proyecto software?
+   El desarrollador es el encargado de transformar los requerimientos y el diseño en un producto funcional. Su rol principal incluye escribir código limpio, eficiente y mantenible, pero sus responsabilidades van mucho más allá. Debe diseñar la lógica de la aplicación, integrar diferentes componentes o APIs, realizar pruebas unitarias para asegurar que su código funcione como se espera, solucionar errores detectados y colaborar estrechamente con el resto del equipo para garantizar que la solución técnica cumpla con los objetivos del negocio.
+
+4. ¿Hay otros papeles importantes en el desarrollo, aparte del desarrollador?
+   Sí, el desarrollo de software moderno es un trabajo multidisciplinario. Algunos roles fundamentales incluyen:
+
+- Product Owner (PO) / Analista Funcional: Define qué se debe construir, entiende las necesidades del cliente y prioriza el trabajo (el backlog).
+- Scrum Master / Agile Coach: Facilita el proceso de trabajo, elimina impedimentos y asegura que el equipo siga las buenas prácticas de la metodología elegida.
+- QA (Quality Assurance) / Testers: Se encargan de diseñar y ejecutar pruebas (manuales o automatizadas) para garantizar la calidad del producto y prevenir errores antes del lanzamiento.
+- Diseñador UX/UI: Investiga y diseña la experiencia del usuario y la interfaz gráfica, asegurando que el software sea intuitivo y fácil de usar.
+- DevOps / Ingeniero de Infraestructura: Gestiona los servidores, la nube y automatiza los procesos de integración y despliegue continuo (CI/CD).
+- Arquitecto de Software: Define la estructura de alto nivel del sistema, eligiendo las tecnologías y patrones de diseño más adecuados.
+
+5. ¿Cuándo se ha desarrollado un buen software?
+   Se considera que se ha desarrollado un buen software cuando cumple con un equilibrio entre calidad externa e interna:
+
+- Calidad Externa (para el usuario/cliente): Resuelve el problema real para el que fue creado, es fácil de usar (buena usabilidad), es seguro, rápido y no presenta errores críticos en producción.
+- Calidad Interna (para el equipo de desarrollo): El código es limpio, está bien estructurado y documentado, lo que permite que sea mantenible y escalable. Un buen software permite agregar nuevas funcionalidades en el futuro sin que el sistema colapse y sin que los costos de desarrollo se disparen.

@@ -1,0 +1,45 @@
+**Fase 1: Análisis de Requerimientos (¿Qué necesita el cliente?)**
+
+- **Ejercicio 1:** Un cliente nos pide una app web para gestionar su inventario. Definir los requisitos funcionales (lo que el sistema _hace_, ej: "agregar producto") y los no funcionales (cómo lo _hace_, ej: "debe ser rápido y seguro").
+- **Ejercicio 2:** Redactar un Caso de Uso detallado para la funcionalidad "Agregar un nuevo producto al inventario".
+
+**Fase 2: Diseño del Sistema (¿Cómo será a grandes rasgos?)**
+
+- **Ejercicio 3:** Elaborar un Diagrama de Flujo de Datos (DFD) que muestre cómo se moverá la información dentro de la app de inventario.
+- **Ejercicio 4:** Diseñar un prototipo o mockup de la interfaz de usuario (UI) para la pantalla de "Inicio" de la aplicación.
+
+**Fase 3: Diseño del Programa (¿Cómo se construirá por dentro?)**
+
+- **Ejercicio 5:** Elegir una arquitectura de software para la app (ej: Monolítica, Microservicios, MVC) y justificar por qué es la más adecuada.
+- **Ejercicio 6:** Diseñar el modelo de la base de datos (Diagrama Entidad-Relación) para el sistema de inventario.
+
+**Fase 4: Diseño Detallado (Modelando con UML)**
+Para resolver los siguientes ejercicios, se pide utilizar una secuencia de diagramas que nos lleven del análisis al diseño detallado:
+
+1.  Diagrama de Dominio
+2.  Diagrama de Robustez
+3.  Prototipo de UI
+4.  Diagrama de Secuencia
+5.  Diagrama de Clases
+
+- **Ejercicio 7:** Implementar (codificar) la funcionalidad completa de "Agregar un nuevo producto" usando el lenguaje de programación preferido.
+- **Ejercicio 8:** Implementar específicamente la lógica de negocio (las reglas y validaciones) para la funcionalidad de "Agregar un nuevo producto".
+
+**Fase 5: Pruebas (¿Funciona como debería?)**
+
+- **Ejercicio 9:** Definir y escribir un conjunto de pruebas unitarias para la funcionalidad "Agregar un nuevo producto".
+- **Ejercicio 10:** Diseñar y ejecutar pruebas de integración que verifiquen que la funcionalidad "Agregar un nuevo producto" se comunica bien con otras partes del sistema (ej: la base de datos).
+
+**Fase 6: Despliegue (¡A producción!)**
+
+- **Ejercicio 11:** Definir un plan de despliegue detallado para poner la aplicación en un servidor de producción.
+- **Ejercicio 12:** Ejecutar el despliegue de la aplicación.
+
+**Fase 7: Mantenimiento (Mantenerlo vivo)**
+
+- **Ejercicio 13:** Definir un plan de mantenimiento para la aplicación (cómo se gestionarán actualizaciones, backups, corrección de errores, etc.).
+- **Ejercicio 14:** Simular la corrección de un bug detectado en producción.
+
+**Fase 8: Preparándonos para el futuro**
+
+- **Ejercicio 15:** Imaginar que el próximo gran proyecto es sobre Inteligencia Artificial Generativa. Armar un equipo de trabajo ideal, definiendo los roles necesarios para llevar a cabo todas las fases anteriores en este nuevo dominio.

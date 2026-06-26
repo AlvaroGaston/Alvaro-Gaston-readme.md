@@ -1,0 +1,15 @@
+Ventajas de los diagramas UML (Lenguaje Unificado de Modelado):
+
+1.  **Es un lenguaje universal:** UML es el "idioma" estándar para modelar software. Esto permite que un desarrollador en Argentina y un arquitecto en Japón puedan entender el mismo diagrama sin confusiones.
+2.  **Hace visible lo complejo:** Un sistema de software es abstracto. UML nos da una forma de "dibujar" esa complejidad, permitiendo entender la estructura general antes de empezar a programar.
+3.  **Ideal para la Programación Orientada a Objetos (POO):** Diagramas como el de clases son un reflejo casi directo de cómo se va a escribir el código en lenguajes como Java o C#, facilitando el paso del diseño a la implementación.
+4.  **Genera buena documentación:** Un buen conjunto de diagramas UML es una excelente documentación técnica, clave para que el proyecto pueda mantenerse a futuro o para que nuevos desarrolladores se sumen al equipo.
+5.  **Permite encontrar errores antes:** Dibujar el sistema primero ayuda a detectar fallos de lógica o de diseño en una etapa temprana, cuando corregirlos es mucho más barato y rápido que cuando el código ya está escrito.
+
+Desventajas de los diagramas UML:
+
+1.  **Requiere tiempo para aprenderlo bien:** UML es enorme. Tiene muchos tipos de diagramas y reglas específicas. Dominarlo no es algo que se logre en un día.
+2.  **Consume mucho tiempo:** Hacer diagramas detallados y correctos es un trabajo lento. A veces, este tiempo compite directamente con el tiempo que se podría usar para empezar a programar.
+3.  **Se desactualizan fácilmente:** El mayor problema de UML. El código cambia todos los días. Mantener los diagramas perfectamente sincronizados con el código es una tarea tan pesada que la mayoría de los equipos terminan abandonándola. Un diagrama desactualizado es peor que no tener ningún diagrama.
+4.  **Choca con la filosofía ágil:** Las metodologías ágiles valoran "el software que funciona por sobre la documentación exhaustiva". Dedicar semanas a modelar en UML antes de escribir código puede ser visto como algo burocrático y poco flexible, contrario al espíritu ágil.
+5.  **Exagerado para proyectos chicos:** Para una aplicación simple o un prototipo, el esfuerzo de crear un modelo UML completo es como usar un cañón para matar una mosca. Simplemente no vale la pena.

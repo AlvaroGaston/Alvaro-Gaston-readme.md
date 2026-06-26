@@ -1,0 +1,20 @@
+1. ¿Qué sabés de metodologías ágiles?
+Entiendo que las metodologías ágiles son una filosofía para crear software de forma más flexible y adaptativa. En lugar de planificar todo al inicio como en el modelo tradicional en cascada, el agilismo se basa en ciclos cortos (iteraciones) donde se entrega valor de forma continua. Lo más importante es la capacidad de responder a cambios, la colaboración constante con el cliente y dentro del equipo. Los marcos de trabajo más conocidos que aplican esta filosofía son Scrum, Kanban y XP.
+
+2. ¿Qué conceptos sobre metodologías ágiles aprendiste en otras asignaturas?
+Durante la carrera, hemos visto cómo el agilismo cambia la forma de pensar el desarrollo de software. Aprendí a gestionar requisitos con "historias de usuario", que son más flexibles que los documentos largos. También vimos cómo se organiza el trabajo en "Sprints" (iteraciones cortas) y la función de cada rol en Scrum: el Product Owner (la voz del cliente), el Scrum Master (el facilitador) y el equipo de desarrollo. Sobre todo, me quedó clara la importancia de las "ceremonias" como las reuniones diarias, las revisiones y las retrospectivas, que son clave para que el equipo esté sincronizado y mejore constantemente.
+
+3. ¿Estás trabajando actualmente? En caso afirmativo, ¿qué metodología utilizan en la empresa?
+No, actualmente no estoy trabajando formalmente en la industria, pero sí estoy en búsqueda activa de mi primera oportunidad laboral en roles de desarrollo. Justamente por eso, estoy muy enfocado en consolidar mis conocimientos sobre metodologías ágiles, ya que sé que es la forma de trabajo estándar en la mayoría de las empresas de tecnología y quiero estar preparado para integrarme a un equipo de la mejor manera posible.
+
+4. ¿Qué herramientas de integración y entrega continua (CI/CD) conocés o utilizás?
+En mi día a día uso Git para el control de versiones, principalmente con GitHub y GitLab. Dentro de estas plataformas, he experimentado con sus herramientas de automatización, como GitHub Actions y GitLab CI, para armar flujos de trabajo (pipelines) sencillos que corren pruebas automáticamente cada vez que subo código. También conozco de nombre y concepto a Jenkins como un orquestador más potente de CI/CD, y he usado Docker para crear contenedores. Entiendo que Docker es fundamental para asegurar que el software se ejecute igual en la máquina del desarrollador, en el servidor de pruebas y en producción.
+
+5. ¿Cuáles considerás que son las características principales de un desarrollo ágil?
+Para mí, las características que definen a un desarrollo ágil son:
+
+*   **Flexibilidad ante el cambio:** En lugar de ver los cambios como un problema, el agilismo los abraza como una oportunidad para mejorar el producto.
+*   **Entregas de valor frecuentes:** Se entrega software que funciona en ciclos cortos. Esto permite obtener feedback real del usuario y ajustar el rumbo rápidamente.
+*   **Colaboración constante:** La comunicación es clave. El cliente y los desarrolladores trabajan juntos durante todo el proyecto, eliminando malentendidos.
+*   **Equipos que se autogestionan:** Se confía en que el equipo de desarrollo es el que mejor sabe cómo resolver los problemas técnicos y organizar su propio trabajo.
+*   **Mejora continua:** El equipo reflexiona periódicamente sobre su forma de trabajar (en las retrospectivas) para identificar qué se puede mejorar y se compromete a hacerlo.
